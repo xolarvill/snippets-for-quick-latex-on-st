@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\boldsymbol{}
+]]></content>
+    <tabTrigger>bo</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

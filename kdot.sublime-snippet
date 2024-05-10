@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\dot{k}
+]]></content>
+    <tabTrigger>kdot</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

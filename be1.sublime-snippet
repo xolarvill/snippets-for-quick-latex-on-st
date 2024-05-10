@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\beta_{1}
+]]></content>
+    <tabTrigger>be1</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

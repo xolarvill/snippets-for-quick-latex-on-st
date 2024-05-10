@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+C(\mathscr{B})
+]]></content>
+    <tabTrigger>cscrb</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

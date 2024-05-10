@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\kappa
+]]></content>
+    <tabTrigger>ka</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

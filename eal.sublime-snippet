@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\end{align}
+]]></content>
+    <tabTrigger>eal</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>
+    

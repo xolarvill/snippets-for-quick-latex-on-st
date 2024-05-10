@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\Phi
+]]></content>
+    <tabTrigger>Ph</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

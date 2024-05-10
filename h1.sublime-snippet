@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+H_{1}
+]]></content>
+    <tabTrigger>h1</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

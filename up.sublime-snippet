@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\Upsilon
+]]></content>
+    <tabTrigger>Up</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

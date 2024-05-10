@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\mathbb{R}
+]]></content>
+    <tabTrigger>bbr</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

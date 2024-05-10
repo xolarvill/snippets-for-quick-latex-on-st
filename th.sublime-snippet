@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\Theta
+]]></content>
+    <tabTrigger>Th</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

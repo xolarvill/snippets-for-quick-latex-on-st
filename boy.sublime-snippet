@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\boldsymbol{y}
+]]></content>
+    <tabTrigger>boy</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\epsilon
+]]></content>
+    <tabTrigger>ep</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

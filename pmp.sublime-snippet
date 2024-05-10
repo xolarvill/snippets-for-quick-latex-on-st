@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\mathop{max}_{} \;  \pi=
+]]></content>
+    <tabTrigger>pmp</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

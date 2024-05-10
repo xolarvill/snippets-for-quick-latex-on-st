@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\sigma^{2}
+]]></content>
+    <tabTrigger>si2</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

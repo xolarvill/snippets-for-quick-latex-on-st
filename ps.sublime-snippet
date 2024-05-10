@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\Psi
+]]></content>
+    <tabTrigger>Ps</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

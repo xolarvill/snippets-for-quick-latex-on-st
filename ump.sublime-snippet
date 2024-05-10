@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\mathop{max}_{} \;  u()=
+]]></content>
+    <tabTrigger>ump</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>
