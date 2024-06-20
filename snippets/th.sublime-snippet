@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-\Delta
+\theta
 ]]></content>
-    <tabTrigger>De</tabTrigger>
+    <tabTrigger>th</tabTrigger>
     <scope>text.tex.latex</scope>
 </snippet>

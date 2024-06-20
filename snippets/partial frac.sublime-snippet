@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-\Pi
+\frac{\partial }{\partial }
 ]]></content>
-    <tabTrigger>Pi</tabTrigger>
+    <tabTrigger>parfr</tabTrigger>
     <scope>text.tex.latex</scope>
 </snippet>

@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-\Theta
+\mathcal{}
 ]]></content>
-    <tabTrigger>Th</tabTrigger>
+    <tabTrigger>mcal</tabTrigger>
     <scope>text.tex.latex</scope>
 </snippet>

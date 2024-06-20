@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-\Sigma
+\sum\limits_{}^{}
 ]]></content>
-    <tabTrigger>Si</tabTrigger>
+    <tabTrigger>sum</tabTrigger>
     <scope>text.tex.latex</scope>
 </snippet>

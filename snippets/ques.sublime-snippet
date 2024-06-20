@@ -6,6 +6,6 @@
 \end{question}
 \end{redblock}
 ]]></content>
-	<tabTrigger>note</tabTrigger>
+	<tabTrigger>ques</tabTrigger>
 	<scope>text.tex.latex</scope>
 </snippet>

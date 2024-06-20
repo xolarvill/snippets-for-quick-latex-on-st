@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-\mathcal{}
+\includegraphics[width=\textwidth]{  }
 ]]></content>
-    <tabTrigger>cal</tabTrigger>
+    <tabTrigger>graph</tabTrigger>
     <scope>text.tex.latex</scope>
 </snippet>

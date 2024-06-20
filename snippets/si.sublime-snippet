@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-\mathbf{}
+\sigma
 ]]></content>
-    <tabTrigger>bf</tabTrigger>
+    <tabTrigger>si</tabTrigger>
     <scope>text.tex.latex</scope>
 </snippet>

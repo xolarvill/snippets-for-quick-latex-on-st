@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\mathbf{}
+]]></content>
+    <tabTrigger>mbf</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>
